@@ -1,10 +1,7 @@
 <!-- Banner -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Github-Django/Github-Django/main/assets/header.svg" alt="Ali Movahedi Banner" width="100%">
-</p>
 
-<h1 align="center">سلام، من <strong>علی موحدی</strong> هستم 👋</h1>
+<h1 align="center">به نام اولین برنامه نویس دنیا</h1>
 <p align="center">
   <em>Mid‑Level Django Back‑End Developer with 4+ years of hands‑on experience</em>
 </p>
